@@ -1,16 +1,12 @@
 {
-  "name": "my-backend-service",
+  "name": "node-api-project",
   "version": "1.0.0",
+  "description": "Node API Back4App",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "Backend service Node.js for cloud deployment",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.19.2"
   }
 }
-
