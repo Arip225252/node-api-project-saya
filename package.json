@@ -1,10 +1,13 @@
 {
-  "name": "node-api-project",
+  "name": "node-back4app",
   "version": "1.0.0",
-  "description": "Node API Back4App",
+  "description": "Backend praktikum",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
   },
   "dependencies": {
     "express": "^4.19.2"
